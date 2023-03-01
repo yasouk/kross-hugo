@@ -1,6 +1,6 @@
 ---
 banner:
-  title: Hi! I’m <br>Soukaina<br> an HR Manager
+  title: Hi! I’m <br>Soukaina<br> an HR Manager!
 about:
   enable: true
   content: Ce site web est un portail de découverte, où l'on peut explorer mon parcours
