@@ -22,8 +22,8 @@ skill:
   - title: Gestion des classes virtuelles
     progress: 89%
     color: "#9473e6"
-  - title: After Effects
-    progress: 80%
+  - title: Respect des normes de qualité
+    progress: 85%
     color: "#bdecf6"
   - title: Web App
     progress: 70%
