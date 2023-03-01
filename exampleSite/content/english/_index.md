@@ -37,13 +37,13 @@ experience:
     company: WEBEX
     duration: Jan 2007 - Feb 2009
   - logo: images/experience/icon-2.png
-    title: UX & UI Designer
+    title: Responsable Recrutement et Formation
     company: AUGMEDIX
     duration: Mar 2009 - Aug 2014
   - logo: images/experience/icon-1.png
     title: Responsable Formation
     company: IGPDE (ministère de l’éco. et des fin.)
-    duration: Sep 2014 - Present
+    duration: "2022"
 education:
   enable: true
   title: Education
