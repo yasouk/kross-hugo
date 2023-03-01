@@ -32,10 +32,14 @@ experience:
   enable: true
   title: Experience
   item:
+  - logo: images/experience/icon-2.png
+    title: ''
+    company: ''
+    duration: ''
   - logo: images/experience/icon-1.png
-    title: Junior UX Designer
-    company: WEBEX
-    duration: Jan 2007 - Feb 2009
+    title: Responsable Administrative
+    company: Impact (Centre d’appel)
+    duration: 2018-2020
   - logo: images/experience/icon-2.png
     title: Responsable Recrutement et Formation
     company: CNFP (Formation professionnelle)
