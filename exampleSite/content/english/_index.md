@@ -72,7 +72,7 @@ service:
       Qualiopi et ISO 9001.
       - Piloter l'organisation logistique des sessions de formation sur mesure pour nos client.
     highlighted: false
-  - title: UX Design
+  - title: Gestion budgétaire d’un dispositive de FORMATION
     icon: ti-vector
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut labore et dolore magna aliqua.
