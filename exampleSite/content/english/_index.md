@@ -38,8 +38,8 @@ experience:
     duration: Jan 2007 - Feb 2009
   - logo: images/experience/icon-2.png
     title: Responsable Recrutement et Formation
-    company: AUGMEDIX
-    duration: Mar 2009 - Aug 2014
+    company: CNFP (Formation professionnelle)
+    duration: 2021 - 2022
   - logo: images/experience/icon-1.png
     title: Responsable Formation
     company: IGPDE (ministère de l’éco. et des fin.)
