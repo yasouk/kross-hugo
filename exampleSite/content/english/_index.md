@@ -52,9 +52,6 @@ education:
   enable: true
   title: Education
   item:
-  - title: Marters in UX Design
-    year: "2006"
-    academy: Masassusets Institute of Technology
   - title: Master 2 en Ingénierie des ressources humaines.
     year: "2021"
     academy: Université Catholique de l'Ouest, France.
