@@ -19,8 +19,8 @@ skill:
   - title: Organisation de travail
     progress: 96%
     color: "#fdb157"
-  - title: Logo Design
-    progress: 60%
+  - title: Gestion des classes virtuelles
+    progress: 89%
     color: "#9473e6"
   - title: After Effects
     progress: 80%
