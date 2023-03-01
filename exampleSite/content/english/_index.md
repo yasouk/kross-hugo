@@ -82,8 +82,7 @@ service:
     highlighted: true
   - title: Définition et mise en œuvre d'un plan de formation
     icon: ti-panel
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
+    content: ''
     highlighted: false
 portfolio:
   enable: false
