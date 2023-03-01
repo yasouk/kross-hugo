@@ -46,7 +46,7 @@ experience:
     duration: 2021 - 2022
   - logo: images/experience/icon-1.png
     title: Responsable Formation
-    company: IGPDE (ministère de l’éco. et des fin.)
+    company: IGPDE (ministère de  l’économie et des finances)
     duration: "2022"
 education:
   enable: true
