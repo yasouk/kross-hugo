@@ -41,8 +41,8 @@ experience:
     company: AUGMEDIX
     duration: Mar 2009 - Aug 2014
   - logo: images/experience/icon-1.png
-    title: Senior UI Designer
-    company: THEMEFISHER
+    title: Responsable Formation
+    company: IGPDE (ministère de l’éco. et des fin.)
     duration: Sep 2014 - Present
 education:
   enable: true
