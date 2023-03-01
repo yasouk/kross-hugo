@@ -55,9 +55,9 @@ education:
   - title: Marters in UX Design
     year: "2006"
     academy: Masassusets Institute of Technology
-  - title: Honours in Fine Arts
-    year: "2004"
-    academy: Harvard University
+  - title: Master 2 en sciences sociales - Ingénierie des ressources humaines.
+    year: "2021"
+    academy: Université Catholique de l'Ouest, France.
   - title: Master 2 en management des ressources humaines.
     year: "2000"
     academy: Cardiff School
