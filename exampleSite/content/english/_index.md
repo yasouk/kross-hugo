@@ -59,8 +59,8 @@ education:
     year: "2021"
     academy: Université Catholique de l'Ouest, France.
   - title: Master 2 en management des ressources humaines.
-    year: "2000"
-    academy: Cardiff School
+    year: "2018"
+    academy: Université Sultan Moulay Slimane, Maroc.
   - title: Licence en sciences économiques et de gestion.
     year: "2016"
     academy: Université Mohammed V Maroc
