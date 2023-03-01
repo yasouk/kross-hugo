@@ -58,7 +58,7 @@ education:
   - title: Honours in Fine Arts
     year: "2004"
     academy: Harvard University
-  - title: Higher Secondary Certificat
+  - title: Master 2 en management des ressources humaines.
     year: "2000"
     academy: Cardiff School
   - title: Licence fondamentale en sciences économiques et de gestions
