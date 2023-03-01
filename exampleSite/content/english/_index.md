@@ -65,6 +65,10 @@ service:
   enable: true
   title: Services
   item:
+  - title: Conseil et accompagnement des collaborateur
+    icon: ti-palette
+    content: ''
+    highlighted: ''
   - title: Pilotage d'équipes
     icon: ti-palette
     content: |2-
