@@ -16,8 +16,8 @@ skill:
   enable: true
   title: Skills
   item:
-  - title: Web Design
-    progress: 90%
+  - title: Organisation de travail
+    progress: 96%
     color: "#fdb157"
   - title: Logo Design
     progress: 60%
