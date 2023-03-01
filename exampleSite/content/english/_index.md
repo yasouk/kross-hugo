@@ -61,7 +61,7 @@ education:
   - title: Master 2 en management des ressources humaines.
     year: "2000"
     academy: Cardiff School
-  - title: Licence fondamentale en sciences économiques et de gestions
+  - title: Licence en sciences économiques et de gestion.
     year: "2016"
     academy: Université Mohammed V Maroc
 service:
