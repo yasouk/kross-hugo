@@ -61,9 +61,9 @@ education:
   - title: Higher Secondary Certificat
     year: "2000"
     academy: Cardiff School
-  - title: Secondary School Certificate
-    year: "1998"
-    academy: Cardiff School
+  - title: Licence fondamentale en sciences économiques et de gestions
+    year: "2016"
+    academy: Université Mohammed V Maroc
 service:
   enable: true
   title: Services
