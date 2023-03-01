@@ -33,9 +33,9 @@ experience:
   title: Experience
   item:
   - logo: images/experience/icon-2.png
-    title: ''
-    company: ''
-    duration: ''
+    title: Chargée de Formation
+    company: Groupe label’ vie
+    duration: 2016-2017
   - logo: images/experience/icon-1.png
     title: Responsable Administrative
     company: Impact (Centre d’appel)
