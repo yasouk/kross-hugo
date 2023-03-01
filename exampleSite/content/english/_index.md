@@ -1,6 +1,6 @@
 ---
 banner:
-  title: Hi! I’m <br> SOUKAINA OUAKKA <br> H.R
+  title: Hi! I’m <br>Soukaina<br> H.R
 about:
   enable: true
   content: Ce site web est un portail de découverte, où l'on peut explorer mon parcours
