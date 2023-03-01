@@ -25,7 +25,7 @@ team:
   title: My Team
   team_member: []
 clients_logo_slider:
-  enable: true
+  enable: false
   title: My Clients
 
 ---
