@@ -25,8 +25,8 @@ skill:
   - title: Respect des normes de qualité
     progress: 85%
     color: "#bdecf6"
-  - title: Web App
-    progress: 70%
+  - title: Pack Office et d'autre logiciels
+    progress: 90%
     color: "#ffbcaa"
 experience:
   enable: true
