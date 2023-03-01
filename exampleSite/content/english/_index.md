@@ -142,7 +142,7 @@ clients_logo_slider:
   - logo: images/clients-logo/client-logo-5.png
     URL: "#"
 blog:
-  enable: true
+  enable: false
   title: Blogs
 
 ---
