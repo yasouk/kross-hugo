@@ -78,8 +78,7 @@ service:
     highlighted: false
   - title: Gestion budgétaire d’un dispositive de FORMATION
     icon: ti-vector
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
+    content: ''
     highlighted: true
   - title: Définition et mise en œuvre d'un plan de formation
     icon: ti-panel
