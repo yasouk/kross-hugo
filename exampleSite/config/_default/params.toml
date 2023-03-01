@@ -102,17 +102,9 @@ logo = "images/clients-logo/client-logo-4.png"
 URL = "#"
 logo = "images/clients-logo/client-logo-5.png"
 [[social]]
-icon = "ti-facebook"
-link = "#"
-title = "facebook"
-[[social]]
 icon = "ti-twitter"
 link = "#"
 title = "twitter"
-[[social]]
-icon = "ti-instagram"
-link = "#"
-title = "instagram"
 [[social]]
 icon = "ti-linkedin"
 link = "#"
