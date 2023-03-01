@@ -65,10 +65,12 @@ service:
   enable: true
   title: Services
   item:
-  - title: UI Design
+  - title: Pilotage d'équipes
     icon: ti-palette
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
+    content: |2-
+       - Piloter l'organisation et la mise en place de l'ingénierie de formation dans le respect des normes qualité
+      Qualiopi et ISO 9001.
+      - Piloter l'organisation logistique des sessions de formation sur mesure pour nos client.
     highlighted: false
   - title: UX Design
     icon: ti-vector
