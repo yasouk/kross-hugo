@@ -3,14 +3,14 @@ banner:
   title: Hi! I’m <br> SOUKAINA OUAKKA <br> H.R
 about:
   enable: true
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-    fugiat nulla pariatur.
+  content: Ce site web est un portail de découverte, où l'on peut explorer mon parcours
+    et mes compétences sous un jour nouveau et audacieux. On peut également y entrevoir
+    les traits qui m'identifient et qui alimentent ma motivation professionnelle.
+    Si d'aventure, mon profil s'éveillait à votre curiosité, cliquez donc sur le bouton
+    "en savoir plus", et laissez-vous emporter par l'impulsion de la découverte !
   button:
     enable: true
-    label: know more
+    label: en savoir plus
     URL: about
 skill:
   enable: true
