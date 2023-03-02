@@ -89,14 +89,15 @@ testimonial:
   enable: true
   title: Testimonials
   item:
-  - name: ''
+  - name: Alexander Guerfal
     image: images/testimonial/client-1.png
-    designation: CEO, Funder
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-      <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-      consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit
-      esse cillum dolore eu fugiat nulla pariatur.
+    designation: Chef du département Développement des Compétences et Adaptation à
+      l'Emploi - IGPDE
+    content: |-
+      Nous avons la chance de compter parmi nos collaborateurs une personne qui fait montre d'une grande rigueur professionnelle. Sous ma responsabilité, et celle de mon adjointe, Soukaina OUAKKA a pris en charge rapidement de nombreux dossiers, de haute importance, relevant de politiques prioritaires gouvernementales et sait mener à bien les différents projets qui lui sont confiés. Engagée sur un contrat court, nous regrettons par avance son départ prévu en fin d'année. Son prochain employeur ne mesure pas encore la chance qu'il aura à avoir Soukaina comme future collaboratrice.
+      Sa maîtrise des outils numériques est un atout supplémentaire qui lui a permis d'acquérir rapidement les compétences nécessaires sur nos outils internes.
+
+      Soukaina s'est très vite intégrée à mon équipe grâce à son dynamisme et sa bonne humeur communicative. Elle est une collaboratrice fiable sur qui on peut compter !
   - name: Shirley Scot
     image: images/testimonial/client-2.png
     designation: CEO, Funder
