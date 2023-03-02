@@ -89,7 +89,7 @@ testimonial:
   enable: true
   title: Testimonials
   item:
-  - name: Alexander Guerfal
+  - name: Alexandre Guerfal
     image: images/testimonial/client-1.png
     designation: Chef du département Développement des Compétences et Adaptation à
       l'Emploi - IGPDE
