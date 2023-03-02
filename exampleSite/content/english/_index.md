@@ -60,7 +60,7 @@ education:
     academy: Université Sultan Moulay Slimane, Maroc.
   - title: Licence en sciences économiques et de gestion.
     year: "2016"
-    academy: Université Mohammed V Maroc
+    academy: Université Mohammed V, Maroc
 service:
   enable: true
   title: Services
