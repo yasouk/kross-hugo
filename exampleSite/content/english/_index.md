@@ -77,7 +77,7 @@ service:
     icon: ti-vector
     content: ''
     highlighted: true
-  - title: Définition et mise en œuvre d'un plan de formation
+  - title: Définition et mise en œuvre d'un plan de FORMATION
     icon: ti-panel
     content: ''
     highlighted: false
