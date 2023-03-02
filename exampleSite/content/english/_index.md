@@ -65,7 +65,7 @@ service:
   enable: true
   title: Services
   item:
-  - title: Conseil et accompagnement des collaborateur
+  - title: Piloter l'ingenieurie de FORMATION
     icon: ti-palette
     content: ''
     highlighted: 'true'
@@ -89,7 +89,7 @@ testimonial:
   enable: true
   title: Testimonials
   item:
-  - name: Jesica Gomez
+  - name: ''
     image: images/testimonial/client-1.png
     designation: CEO, Funder
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
