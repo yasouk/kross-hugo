@@ -7,7 +7,7 @@ paginate = "6"
 summaryLength = "10"
 theme = ["kross-hugo"]
 timeZone = "UTC"
-title = "SOUKAINA"
+title = "SOUKAINA-OUAKKA"
 [build]
 writeStats = true
 [caches.assets]
