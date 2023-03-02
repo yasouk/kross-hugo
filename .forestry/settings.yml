@@ -5,6 +5,11 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
+  path: exampleSite/assets/images/testimonial
+  label: TESTIMONIAL-pic
+  create: all
+  match: "**/*"
+- type: directory
   path: exampleSite/config/_default
   label: config
   create: all
