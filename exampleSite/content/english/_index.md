@@ -102,9 +102,9 @@ testimonial:
       Son prochain employeur ne mesure pas encore la chance qu'il aura à avoir Soukaina
       comme future collaboratrice. Sa maîtrise des outils numériques est un atout
       supplémentaire qui lui a permis d'acquérir rapidement les compétences nécessaires
-      sur nos outils internes. \n</strong>Soukaina s'est très vite intégrée à mon
-      équipe grâce à son dynamisme et sa bonne humeur communicative. Elle est une
-      collaboratrice fiable sur qui on peut compter !</strong>"
+      sur nos outils internes. \n<strong>Soukaina s'est très vite intégrée à mon équipe
+      grâce à son dynamisme et sa bonne humeur communicative. Elle est une collaboratrice
+      fiable sur qui on peut compter !</strong>"
   - name: Shirley Scot
     image: images/testimonial/client-2.png
     designation: CEO, Funder
