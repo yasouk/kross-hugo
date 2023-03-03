@@ -6,7 +6,7 @@ about:
   content: Ce site web est un portail de découverte, où l'on peut explorer mon parcours
     et mes compétences sous un jour nouveau et audacieux. On peut également y entrevoir
     les traits qui m'identifient et qui alimentent ma motivation professionnelle.
-    Si d'aventure, mon profil s'éveillait à votre curiosité, cliquez donc sur le bouton
+    Si d'aventure, mon profil éveillit à votre curiosité, cliquez donc sur le bouton
     "en savoir plus", et laissez-vous emporter par l'impulsion de la découverte !
   button:
     enable: true
