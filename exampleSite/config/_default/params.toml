@@ -56,7 +56,7 @@ facebook = ""
 google = ""
 mastodon = ""
 [subscription]
-enable = false
+enable = true
 mailchimp_form_action = "https://app.us21.list-manage.com/subscribe/post?u=6b8e647c4b5e5ebca6efed832&amp;id=4c5548aaa6&amp;f_id=008e8ae1f0"
 mailchimp_form_name = "b_6b8e647c4b5e5ebca6efed832_4c5548aaa6"
 [valine_comment]
