@@ -57,8 +57,8 @@ google = ""
 mastodon = ""
 [subscription]
 enable = false
-mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074"
-mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074"
+mailchimp_form_action = "https://app.us21.list-manage.com/subscribe/post?u=6b8e647c4b5e5ebca6efed832&amp;id=4c5548aaa6&amp;f_id=008e8ae1f0"
+mailchimp_form_name = "b_6b8e647c4b5e5ebca6efed832_4c5548aaa6"
 [valine_comment]
 appId = ""
 appKey = ""
