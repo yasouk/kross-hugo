@@ -11,7 +11,7 @@ about:
   button:
     enable: true
     label: en savoir plus
-    URL: about
+    URL: https://drive.google.com/file/d/1dE5b1DDFbIzhsJ-ToPH_pTsM9oNsIWPJ/view?usp=drivesdk
 skill:
   enable: true
   title: Skills
