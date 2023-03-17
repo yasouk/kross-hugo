@@ -65,7 +65,7 @@ service:
   enable: true
   title: Services
   item:
-  - title: Piloter l'ingenieurie de FORMATION
+  - title: Piloter l'ingenierie de FORMATION
     icon: ti-palette
     content: ''
     highlighted: 'true'
