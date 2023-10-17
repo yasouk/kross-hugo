@@ -1,11 +1,11 @@
-contact_form_action = "#"
-copyright = "Copyright by SOUKAINA OUAKKA"
+contact_form_action = "https://formspree.io/f/mnqklgee"
+copyright = "Copyright 2023"
 custom_script = ""
 favicon = "images/favicon.png"
 google_adsense = ""
 google_tag_manager = ""
 logo = ""
-logo_text = "Kross"
+logo_text = "SOUKAINA-OUAKKA"
 logo_webp = true
 logo_width = ""
 mainSections = ["blog"]
@@ -19,7 +19,7 @@ analytics_id = ""
 enable = false
 [contact_info]
 address = "Île-de-France"
-email = "Soukaina-ouakka@outlook.fr"
+email = "contact@soukaina-ouakka.com"
 mobile = "(+33) 7 83 49 30 15"
 [cookies]
 button = "I Accept"
@@ -39,10 +39,10 @@ enable = false
 id = ""
 url = ""
 [metadata]
-author = "Themefisher"
-description = "This is meta description"
+author = "SOUKAINA OUAKKA"
+description = "SOUKAINA OUAKKA portfolio, Pilotage de l'ingenierie de FORMATION, Responsable Formation."
 image = "images/favicon.png"
-keywords = ["Boilerplate", "Hugo", "Themefisher", "GetHugoThemes"]
+keywords = ["SOUKAINA", "OUAKKA", "PORTFOLIO", "RESPONSABLE", "FORMATION"]
 [plausible]
 domain = ""
 enable = false
@@ -56,9 +56,9 @@ facebook = ""
 google = ""
 mastodon = ""
 [subscription]
-enable = true
-mailchimp_form_action = "https://app.us21.list-manage.com/subscribe/post?u=6b8e647c4b5e5ebca6efed832&amp;id=4c5548aaa6&amp;f_id=008e8ae1f0"
-mailchimp_form_name = "b_6b8e647c4b5e5ebca6efed832_4c5548aaa6"
+enable = false
+mailchimp_form_action = ""
+mailchimp_form_name = ""
 [valine_comment]
 appId = ""
 appKey = ""
@@ -72,38 +72,38 @@ visitor = true
 [widgets]
 sidebar = ["search", "categories", "tags", "recent-post"]
 [[logo_slider]]
-URL = "http://examplesite.com"
+URL = "https://soukaina-ouakka.com"
 logo = "images/clients-logo/client-logo-1.png"
 [[logo_slider]]
 URL = "#"
 logo = "images/clients-logo/client-logo-2.png"
 [[logo_slider]]
-URL = "http://examplesite.com"
+URL = "https://soukaina-ouakka.com"
 logo = "images/clients-logo/client-logo-3.png"
 [[logo_slider]]
 URL = "#"
 logo = "images/clients-logo/client-logo-4.png"
 [[logo_slider]]
-URL = "http://examplesite.com"
+URL = "https://soukaina-ouakka.com"
 logo = "images/clients-logo/client-logo-5.png"
 [[logo_slider]]
 URL = "#"
 logo = "images/clients-logo/client-logo-1.png"
 [[logo_slider]]
-URL = "http://examplesite.com"
+URL = "https://soukaina-ouakka.com"
 logo = "images/clients-logo/client-logo-2.png"
 [[logo_slider]]
 URL = "#"
 logo = "images/clients-logo/client-logo-3.png"
 [[logo_slider]]
-URL = "http://examplesite.com"
+URL = "https://soukaina-ouakka.com"
 logo = "images/clients-logo/client-logo-4.png"
 [[logo_slider]]
 URL = "#"
 logo = "images/clients-logo/client-logo-5.png"
 [[social]]
 icon = "ti-twitter"
-link = "#"
+link = "https://www.linkedin.com/in/soukaina-ouakka"
 title = "twitter"
 [[social]]
 icon = "ti-linkedin"
