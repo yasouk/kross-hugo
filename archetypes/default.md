@@ -2,9 +2,9 @@
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 # meta keywords
-keywords: []
+keywords: [soukaina, ouakka, portfolio, responsable, formation]
 # meta description
-description: "This is meta description"
+description: "SOUKAINA OUAKKA RESPONSABLE DE FORMATION."
 # save as draft
 draft: false
 ---

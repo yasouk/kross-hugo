@@ -10,32 +10,29 @@
       </div>
     </div>
   </div>
-  <div class="layer-bg w-100">
-    {{ partial "image.html" (dict "Src" "images/illustrations/leaf-bg.png" "Alt" "bg-shape" "Class" `w-100`) }}
-  </div>
   <div class="layer" id="l2">
-    <img src="{{`images/illustrations/dots-cyan.svg` | relURL}}" alt="bg-shape">
+    <img src="{{`images/illustrations/dots-cyan.svg` | relURL}}" alt="bg-shape" width="165px" height="9px">
   </div>
   <div class="layer" id="l3">
-    <img src="{{`images/illustrations/leaf-orange.svg` | relURL}}" alt="bg-shape">
+    <img src="{{`images/illustrations/leaf-orange.svg` | relURL}}" alt="bg-shape" width="72px" height="93px">
   </div>
   <div class="layer" id="l4">
-    <img src="{{`images/illustrations/dots-orange.svg` | relURL}}" alt="bg-shape">
+    <img src="{{`images/illustrations/dots-orange.svg` | relURL}}" alt="bg-shape" width="125px" height="9px">
   </div>
   <div class="layer" id="l5">
-    <img src="{{`images/illustrations/leaf-yellow.svg` | relURL}}" alt="bg-shape">
+    <img src="{{`images/illustrations/leaf-yellow.svg` | relURL}}" alt="bg-shape" width="346px" height="285px">
   </div>
   <div class="layer" id="l6">
-    <img src="{{`images/illustrations/leaf-cyan.svg` | relURL}}" alt="bg-shape">
+    <img src="{{`images/illustrations/leaf-cyan.svg` | relURL}}" alt="bg-shape" width="169px" height="96px">
   </div>
   <div class="layer" id="l7">
-    <img src="{{`images/illustrations/dots-group-orange.svg` | relURL}}" alt="bg-shape">
+    <img src="{{`images/illustrations/dots-group-orange.svg` | relURL}}" alt="bg-shape" width="74px" height="54px">
   </div>
   <div class="layer" id="l8">
-    <img src="{{`images/illustrations/leaf-pink-round.svg` | relURL}}" alt="bg-shape">
+    <img src="{{`images/illustrations/leaf-pink-round.svg` | relURL}}" alt="bg-shape" width="84px" height="68px">
   </div>
   <div class="layer" id="l9">
-    <img src="{{`images/illustrations/leaf-cyan-2.svg` | relURL}}" alt="bg-shape">
+    <img src="{{`images/illustrations/leaf-cyan-2.svg` | relURL}}" alt="bg-shape" width="191px" height="120px">
   </div>
 
   <!-- social icon -->
@@ -167,7 +164,7 @@
         <h2 class="section-title">{{ .title | markdownify }}</h2>
       </div>
       {{ range .item }}
-      <div class="col-md-4 mb-4">
+      <div class="col-md-4" style="margin-bottom: 1rem; display: grid;">
         <div class="card {{if .highlighted }} active-bg-primary {{end}} hover-shadow shadow">
           <div class="card-body text-center px-4 py-5">
             <i class="{{.icon }} icon mb-5 d-inline-block"></i>

@@ -1,12 +1,12 @@
 baseURL = "https://soukaina-ouakka.com"
 disableLanguages = []
-disqusShortname = "Kross"
+disqusShortname = "SOUKAINA-OUAKKA"
 googleAnalytics = ""
 hasCJKLanguage = false
 paginate = "6"
 summaryLength = "10"
 theme = ["kross-hugo"]
-timeZone = "UTC"
+timeZone = "GMT"
 title = "SOUKAINA-OUAKKA"
 [build]
 writeStats = true
