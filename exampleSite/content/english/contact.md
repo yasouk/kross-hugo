@@ -1,6 +1,6 @@
 ---
 draft: false
 title: "Contact"
-description: "This is meta description."
+description: "Soukaina OUAKKA, responsable de formation."
 layout: "contact"
 ---
